@@ -1,0 +1,36 @@
+[
+    {
+        "DisplayName": "Server Password",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "server,password",
+        "FieldName": "ServerPassword",
+        "InputType": "password",
+        "IsFlagArgument": false,
+        "ParamFieldName": "ServerPassword",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": true,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Server Name",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "server,name",
+        "FieldName": "ServerName",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "ServerName",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "AMP Powered Server",
+        "Placeholder": "AMP Powered Server",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
