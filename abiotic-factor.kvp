@@ -4,6 +4,7 @@ Meta.Arch=x86_64
 Meta.Author=Valency - Made with AMP Config Generator
 Meta.URL=https://store.steampowered.com/app/427410/Abiotic_Factor/
 Meta.MinAMPVersion=2.4.6.6
+Meta.AppConfigId=48bc4d23-e9bf-4b6d-95cd-ef06b1cf24bc
 Meta.SpecificDockerImage=
 Meta.DockerRequired=False
 Meta.ContainerPolicy=Supported
